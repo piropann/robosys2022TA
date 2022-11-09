@@ -1,5 +1,5 @@
 # plusコマンド
-![test](https://github.com/piropann/robosys2022TA/actions/workflows/test.vml/badge.svg)
+[![test](https://github.com/piropann/robosys2022TA/actions/workflows/test.yml/badge.svg)](https://github.com/piropann/robosys2022TA/actions/workflows/test.yml)
 
 ## 必要なソフトウェア
 * Python
