@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Hirofumi Saito
+#SPDX-License-Identifier: MIT
 import sys
 
 ans = 0.0
